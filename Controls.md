@@ -1,5 +1,3 @@
-# Controls
-
 ## Menu
 
 ### File
