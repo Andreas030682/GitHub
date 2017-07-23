@@ -3,10 +3,15 @@ The settings menu is hidden on the right side of the main window. Hovering your 
 ## Settings
 
 ``Script delay`` When the script playback is a bit too late or too early, you can fine tune it to your specific setup by adjusting the slider right or left. Positive values will cause the actions to be executed later, negative values earlier.  
+
 ``Range`` Limits the up/down position for the Fleshlight Launch to the specified values. 0 is completely down, 99 completely up.  
+
 ``Speed Multiplier`` Speeds up every command by the set amount.  
+
 ``Min Command Delay`` Specifies the minimal timespan between two commands that are sent to the Launch. 
+
 ``Auto-Skip Gaps`` When the script doesn't contain an action to be executed within the next 10 seconds, the player will automatically jump close to the next action.
+
 ``Up/Down`` When the loaded script is a beat-file (*.txt, *.beats) the movements during playback can be sped up by selecting a different mode.
 * ``Up/Down`` One beat up, second beat up
 * ``Down (fast)`` Fast down/up movement on every beat
@@ -25,5 +30,7 @@ The settings menu is hidden on the right side of the main window. Hovering your 
 ## Debug
 
 ``Show Heat Map`` The progress bar at the bottom of the window will be overlayed with colors indicating the movement speed at the position in the video. Black = no movement, Blue/Green slow movement, Yellow/Red fast movement.  
+
 ``Test patterns`` Allows you to execute pre-defined patterns.  
+
 ``Log Markers`` Will add the current timestamp to a <filename>.log text file when right-clicking on the video.
