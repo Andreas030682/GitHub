@@ -24,3 +24,7 @@ Example:
 > 61.924  
 > 62.391  
 > 62.842  
+
+### VirtualRealPorn Scripts
+
+A ini-style text file that wraps the commands for compatible devices (e.g. Kiiroo Onyx)
