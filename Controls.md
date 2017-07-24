@@ -40,4 +40,6 @@
 ``2`` Move down  
 ``4`` Move left  
 ``6`` Move right  
-``7`` Move up
+``8`` Move up
+
+``7`` Toggle SBS-Mode (show only left half of the video)
