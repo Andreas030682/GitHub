@@ -8,10 +8,11 @@
 
 ## Installation and Usage
 
+* Make sure you have at least Firmware Version 1.2 on your Launch, if not - please update via the FeelConnect app
 * Download the [latest release](https://github.com/FredTungsten/ScriptPlayer/releases) and extract it to a directory of your choice.
-* For devices other than the Fleshlight Launch, download and install [Buttplug](https://ci.appveyor.com/api/buildjobs/m2um3qsl4t2rlbc1/artifacts/Buttplug-Release-0.0.0.421-installer.exe).
+* For devices other than the Fleshlight Launch, download and install [Buttplug](https://ci.appveyor.com/api/buildjobs/m2um3qsl4t2rlbc1/artifacts/Buttplug-Release-0.0.0.421-installer.exe)
 * And read [this](https://metafetish.club/t/using-buttplug-with-scriptplayer/68) too
-* Start ScriptPlayer and let it register for BLE access. (Setup should already have taken care of that)
+* Start ScriptPlayer and let it register for BLE access (Setup should already have taken care of that)
 * Customize your [[Settings]]
 * Get yourself some [[Scripts]] and the corresponding videos
 * Familiarize yourself with the [[Controls]]
