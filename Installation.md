@@ -1,6 +1,6 @@
 ## Prerequisites
 
-* Windows 10 (Creators Update)
+* Windows 10 (Creators Update*)
 * BLE capable dongle ([[List of tested chipsets|Devices#BLE dongle chipsets]])
 * .Net Framework 4.6.2
 
