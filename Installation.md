@@ -17,3 +17,7 @@
 * Get yourself some [[Scripts]] and the corresponding videos
 * Familiarize yourself with the [[Controls]]
 * Enjoy
+
+## Known issues
+
+* The latest version is picked up by AVAST - it's a false positive and should be removed soon.
