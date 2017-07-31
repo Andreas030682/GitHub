@@ -1,4 +1,4 @@
-Make sure to read the [[installation manual|Installation#Prerequisites]] first, it covers the most basic prerequisites that are absolutely mandatory.
+Make sure to read the [[installation manual|Installation#Prerequisites]] first, it covers the most basic prerequisites that are absolutely mandatory. For every entry here, make sure to check the previous ones first to make sure you didn't miss anything.
 
 ## I can't connect to my toy
 Make sure you have at least the Windows version recommented in [[the installation manual|Installation#Prerequisites]], check if your bluetooth dongle supports BT 4.0 Low Energy (BLE) and is [[not listed|Devices#ble-dongle-chipsets]] under the chipsets known to cause issues.
