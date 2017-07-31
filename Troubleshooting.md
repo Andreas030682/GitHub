@@ -8,3 +8,6 @@ Make sure you have the latest version of ScriptPlayer, Buttplug (for devices oth
 
 ## Manual movement works, but I can't playback scripts
 Make sure the script loaded successfully by enabling "Show Heatmap" in the [[settings panel|Settings]]. If the progressbar at the bottom stays black, the script was not loaded correctly.
+
+## It works for a while and suddenly stops
+Make sure your BLE dongle is not overheating and plugged into the correct type of port (e.g. if it's USB 2.0 don't use a 3.0 even though common sense says it should work).
