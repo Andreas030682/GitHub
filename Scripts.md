@@ -1,10 +1,10 @@
 ## Where to get them
 
-[From me](https://github.com/FredTungsten/ScriptPlayer/tree/master/Scripts) (Cock Hero and Fap Hero videos) or [Funjack](https://github.com/funjack/funscripts) (Mainstream Porn).
+[From me](https://github.com/FredTungsten/ScriptPlayer/tree/master/Scripts) (Cock Hero and Fap Hero videos), [Funjack](https://github.com/funjack/funscripts) (Mainstream Porn) or [this forum](http://realtouchscripts.com/viewforum.php?f=53).
 
 ## How to make them
 
-With [VideoSync](https://github.com/FredTungsten/ScriptPlayer/tree/master/ScriptPlayer/ScriptPlayer.VideoSync) (Once it's usable I'll write a manual), with [Funjack's Blender plugin](https://github.com/funjack/launchcontrol/releases)
+With [VideoSync](https://github.com/FredTungsten/ScriptPlayer/tree/master/ScriptPlayer/ScriptPlayer.VideoSync) (Once it's usable I'll write a manual) or [Funjack's Blender plugin](https://github.com/funjack/launchcontrol/releases)
 
 ## Formats
 
