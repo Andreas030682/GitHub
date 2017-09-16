@@ -13,6 +13,15 @@
 ``Buttplug - Connect to Buttplug`` Connects to Buttplug Websocket Server.  
 ``Buttplug - Scan for Devices`` Lets Buttplug scan for devices.  
 
+### Experimental
+
+``Blind Mode`` Disables audio and video playback, can be used to watch videos with a different player.
+
+### Help
+
+``Documentation`` Opens this Wiki in the default browser.
+``About / Check for new Version`` Displays the current version and checks online for a newer one.
+
 ## Mouse
 
 ``Click on video`` Toggle playback  
@@ -20,6 +29,8 @@
 ``Right-click on video`` Logs current timestamp (if enabled in debug menu)  
 
 ## Keyboard
+
+Media-keys like ``Play``, ``Pause``, ``Toggle Playback``, ``Previous`` and ``Next`` are supported.
 
 ### Basic controls
 
