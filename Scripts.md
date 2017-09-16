@@ -28,3 +28,7 @@ Example:
 ### VirtualRealPorn Scripts
 
 A ini-style text file that wraps the commands for compatible devices (e.g. Kiiroo Onyx)
+
+### Vorze Scripts
+
+CSV Vorze Scripts are theoretically supported but the conversion is not working very well at the moment.
