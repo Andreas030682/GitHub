@@ -19,7 +19,7 @@ The slider below the range settings determines how much of the full range will b
 
 ``Auto-Skip Gaps`` When the script doesn't contain an action to be executed within the next 10 seconds, the player will automatically jump close to the next action.
 
-``Beat Converrsion Mode`` When the loaded script is a beat-file (*.txt, *.beats) the movements during playback can be sped up by selecting a different mode.
+``Beat Conversion Mode`` When the loaded script is a beat-file (*.txt, *.beats) the movements during playback can be sped up by selecting a different mode.
 * ``Up/Down`` One beat up, second beat up
 * ``Down (fast)`` Fast down/up movement on every beat
 * ``Down (centered)`` Down on every beat, up centered between each two beats
@@ -37,7 +37,9 @@ The slider below the range settings determines how much of the full range will b
 
 ## Debug
 
-``Show Heat Map`` The progress bar at the bottom of the window will be overlayed with colors indicating the movement speed at the position in the video. Black = no movement, Blue/Green slow movement, Yellow/Red fast movement.  
+``Show Heat Map`` The progress bar at the bottom of the window will be overlayed with colors indicating the movement speed at the position in the video. Black = no movement, Blue/Green slow movement, Yellow/Red fast movement. 
+
+``Show Script Positions`` Displays the position timeline of the script at the bottom of the video. The time-scale can be adjusted by scrolling up/down with the mouse wheel. 
 
 ``Test patterns`` Allows you to execute pre-defined patterns.  
 
