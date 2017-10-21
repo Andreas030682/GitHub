@@ -13,13 +13,15 @@
 ``Buttplug - Connect to Buttplug`` Connects to Buttplug Websocket Server.  
 ``Buttplug - Scan for Devices`` Lets Buttplug scan for devices.  
 
-### Experimental
+### Playback
 
-``Blind Mode`` Disables audio and video playback, can be used to watch videos with a different player.
+``Local`` Local Playback - works like a regular video player.  
+``Blind Mode`` Disables audio and video playback, can be used to watch videos with a different player.  
+``Whirligig`` Connects to the [Whirligig Media Player](http://www.whirligig.xyz/) (VR) and syncs to the video being played. Make sure to enable **Timecode Server** in the settings tab **General 1**.
 
 ### Help
 
-``Documentation`` Opens this Wiki in the default browser.
+``Documentation`` Opens this Wiki in the default browser.  
 ``About / Check for new Version`` Displays the current version and checks online for a newer one.
 
 ## Mouse
@@ -31,6 +33,8 @@
 ## Keyboard
 
 Media-keys like ``Play``, ``Pause``, ``Toggle Playback``, ``Previous`` and ``Next`` are supported.
+
+In ``Blind Mode`` the ``Previous`` and ``Next`` keys can be used to adjust the timing of the script by ±50ms.
 
 ### Basic controls
 
