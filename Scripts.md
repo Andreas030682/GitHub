@@ -29,6 +29,10 @@ Example:
 
 A ini-style text file that wraps the commands for compatible devices (e.g. Kiiroo Onyx)
 
+### FeelMe Meta files
+
+Same basic Kiiroo commands as in the VRP Scripts but wrapped in JSON
+
 ### Vorze Scripts
 
 CSV Vorze Scripts are theoretically supported but the conversion is not working very well at the moment.
