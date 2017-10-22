@@ -11,3 +11,8 @@ Make sure the script loaded successfully by enabling "Show Heatmap" in the [[set
 
 ## It works for a while and suddenly stops
 Make sure your BLE dongle is not overheating and plugged into the correct type of port (e.g. if it's USB 2.0 don't use a 3.0 even though common sense says it should work).
+
+## Movement is too fast or erratic
+Try adjusting the settings for ``Speed``, ``Range`` and ``Min Command Delay`` in the [[settings panel|Settings]]. By default they are pushing the limit and result in faster movement that other applications. The defaults of other applications are approximately:   
+``Speed``: 20 - 80  
+``Range``: 5 - 95
