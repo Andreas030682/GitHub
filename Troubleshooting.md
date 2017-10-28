@@ -1,5 +1,11 @@
 Make sure to read the [[installation manual|Installation#Prerequisites]] first, it covers the most basic prerequisites that are absolutely mandatory. For every entry here, make sure to check the previous ones first to make sure you didn't miss anything.
 
+## The video doesn't load / Screen stays back
+This is usually a codec issue and can be fixed quite easily. ScriptPlayer uses DirectShow filters to render videos, so to test if this really is the issue try opening the file with Windows Media Player. If the result is the same, you have found the problem and simply have to install the right codec(s). One of the following should work in most cases:
+* [LAV-Filters](https://github.com/Nevcairiel/LAVFilters/releases)
+* [K-Lite Codec Pack](https://www.codecguide.com/download_kl.htm) (includes LAV and madVR)
+* [CCCP](http://www.cccp-project.net/) (includes LAV and custom MPC)
+
 ## I can't connect to my toy
 Make sure you have at least the Windows version recommented in [[the installation manual|Installation#Prerequisites]], check if your bluetooth dongle supports BT 4.0 Low Energy (BLE) and is [[not listed|Devices#ble-dongle-chipsets]] under the chipsets known to cause issues.
 
