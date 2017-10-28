@@ -6,6 +6,8 @@ This is usually a codec issue and can be fixed quite easily. ScriptPlayer uses D
 * [K-Lite Codec Pack](https://www.codecguide.com/download_kl.htm) (includes LAV and madVR)
 * [CCCP](http://www.cccp-project.net/) (includes LAV and custom MPC)
 
+If that still doesn't solve the issue, maybe [this support page from VRP](https://support.virtualrealporn.com/hc/en-us/articles/203037781-The-screen-stays-black-and-I-can-t-see-the-video) can help you.
+
 ## I can't connect to my toy
 Make sure you have at least the Windows version recommented in [[the installation manual|Installation#Prerequisites]], check if your bluetooth dongle supports BT 4.0 Low Energy (BLE) and is [[not listed|Devices#ble-dongle-chipsets]] under the chipsets known to cause issues.
 
