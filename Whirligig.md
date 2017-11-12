@@ -1,3 +1,5 @@
+[Whirligig](http://www.whirligig.xyz/) is a highly customizable VR video player. The functionality required to sync scripts to video playback (timecode server) is not yet (but maybe soon) available in the [free version](http://www.whirligig.xyz/new-page-3/), but you can get a copy that supports this feature on [Steam](http://store.steampowered.com/app/451650/) or the [Oculus Store](https://www.oculus.com/experiences/rift/1130182873666293/).
+
 You can connect ScriptPlayer to Whirligig via the menu (Playback - Whirligig). Whirligig will handle playback of the video and Scriptplayer automatically loads corresponding scripts to the video, as long as the video was loaded after the connection has been established. The timestamps provided via the timestamp sever are fairly precice but you can further need to adjust the script delay for even better synchronization. 
 
 ## Settings in Whirligig
