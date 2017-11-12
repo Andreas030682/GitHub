@@ -1,4 +1,4 @@
-You can connect ScriptPlayer to VLC via the menu (Playback - VLC). VLC will handle playback of the video and Scriptplayer automatically loads corresponding scripts to the video. Unfortunately the timestamps provided via the webinterface are not very precice you you might need to adjust the script delay for proper synchronization. 
+You can connect ScriptPlayer to [VLC](https://www.videolan.org/) via the menu (Playback - VLC). VLC will handle playback of the video and Scriptplayer automatically loads corresponding scripts to the video. Unfortunately the timestamps provided via the webinterface are not very precice, so you might need to adjust the script delay for proper synchronization. 
 
 ## Settings in VLC
 
