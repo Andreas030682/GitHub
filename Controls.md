@@ -10,14 +10,24 @@
 ### Devices
 
 ``Connect Launch directly`` Searches for and connects to a Fleshlight Launch.  
-``Buttplug - Connect to Buttplug`` Connects to Buttplug Websocket Server.  
+``Buttplug - Connect`` Connects to Buttplug Websocket Server.  
+``Buttplug - Disconnect`` Diosconnects from Buttplug Websocket Server.  
 ``Buttplug - Scan for Devices`` Lets Buttplug scan for devices.  
 
 ### Playback
 
 ``Local`` Local Playback - works like a regular video player.  
 ``Blind Mode`` Disables audio and video playback, can be used to watch videos with a different player.  
-``Whirligig`` Connects to the [Whirligig Media Player](http://www.whirligig.xyz/) (VR) and syncs to the video being played. Make sure to enable **Timecode Server** in the settings tab **General 1**.
+``Whirligig`` Connects to the [Whirligig Media Player](http://www.whirligig.xyz/) (VR) and syncs to the video being played. Make sure to enable **Timecode Server** in the settings tab **General 1**.  
+``VLC`` Connects to [VLC](https://www.videolan.org/) and syncs to the video being played. Make sure to enable the **Web Interface** in the settings tab **Main Interfaces**.
+
+### View
+
+``Toggle Fullscreen`` Toggles Fullscreen mode.  
+
+### Settings
+
+Opens the settings dialog.
 
 ### Help
 
