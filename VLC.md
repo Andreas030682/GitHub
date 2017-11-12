@@ -12,7 +12,7 @@ Under Interfaces - Main Interfaces - Lua set a password for ``Lua HTTP``.
 
 ## Settings in ScriptPlayer
 
-When you try to connect to VLC for the first time (via Playback - VLC) you will see promt that asks you for connection settings like the IP, port and password for the VLC web interface.
+When you try to connect to VLC for the first time (via Playback - VLC) you will see a promt that asks you for connection settings like the IP, port and password for the VLC web interface. (default ``127.0.0.1:8080``)
 
 ![VLC Connection Settings 1](https://raw.githubusercontent.com/FredTungsten/ScriptPlayer/master/Assets/VlcConnectionSettings1.png)
 
