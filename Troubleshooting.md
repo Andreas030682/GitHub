@@ -2,6 +2,7 @@ Make sure to read the [[installation manual|Installation#Prerequisites]] first, 
 
 ## The video doesn't load / Screen stays back
 This is usually a codec issue and can be fixed quite easily. ScriptPlayer uses DirectShow filters to render videos, so to test if this really is the issue try opening the file with Windows Media Player. If the result is the same, you have found the problem and simply have to install the right codec(s). One of the following should work in most cases:
+* [Windows Media Player Feature Pack](https://www.microsoft.com/en-us/software-download/mediafeaturepack)
 * [LAV-Filters](https://github.com/Nevcairiel/LAVFilters/releases)
 * [K-Lite Codec Pack](https://www.codecguide.com/download_kl.htm) (includes LAV and madVR)
 * [CCCP](http://www.cccp-project.net/) (includes LAV and custom MPC)
