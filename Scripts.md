@@ -1,6 +1,6 @@
 ## Where to get them
 
-[From me](https://github.com/FredTungsten/ScriptPlayer/tree/master/Scripts) (Cock Hero and Fap Hero videos), [Funjack](https://github.com/funjack/funscripts) (Mainstream Porn) or [this forum](http://realtouchscripts.com/viewforum.php?f=53).
+[From me](https://github.com/FredTungsten/Scripts) (Cock Hero and Fap Hero videos), [Funjack](https://github.com/funjack/funscripts) (Mainstream Porn) or [this forum](http://realtouchscripts.com/viewforum.php?f=53).
 
 ## How to make them
 
