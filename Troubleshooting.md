@@ -1,4 +1,4 @@
-Make sure to read the [[installation manual|Installation#Prerequisites]] first, it covers the most basic prerequisites that are absolutely mandatory. For every entry here, make sure to check the previous ones first to make sure you didn't miss anything.
+Make sure to read the [[installation manual|Installation#Prerequisites]] first, it covers the most basic prerequisites that are absolutely mandatory. For every entry here, make sure to check the previous ones first to make sure you didn't miss anything. If you can't resolve your problem, consider [[submitting a bug report|Creating Issues to report bugs or request features]].
 
 ## The video doesn't load / Screen stays back
 This is usually a codec issue and can be fixed quite easily. ScriptPlayer uses DirectShow filters to render videos, so to test if this really is the issue try opening the file with Windows Media Player. If the result is the same, you have found the problem and simply have to install the right codec(s). One of the following should work in most cases:
