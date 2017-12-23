@@ -21,11 +21,25 @@ WSS (SSL/TLS) connections are not supported.
 
 ``Auto-Skip Gaps`` When the script doesn't contain an action to be executed within the next 10 seconds, the player will automatically jump close to the next action.
 
+``Show Skip Button`` When a section can be skipped (because it contains no actions or only fillers) a skip button will appear on screen.  
+
 ``Soft seek`` When gaps are skipped, the video will slowly fade-out instead of instantly skipping (Local playback only).
 
 ``Freeze frame`` During soft seek, the last visible video frame will be faded in and out during transistion.
 
 ``Fade to black`` Soft seek will simply fade to black and back.
+
+``Fill gaps with movement`` Will fill all gaps in the scripts with movement (details below)  
+
+``Show filled gaps in heat map`` When generating the heat map, filler actions will be displayed like regular ones.  
+
+``Fill gap before first action`` The gap from the start of the video until the first action will also be filled.  
+
+``Fill gap after last action`` The gap from the last action until the end of the video will also be filled.  
+
+``Spacing before/after gap`` Includes a small space at the beginning and end of the gap.
+
+``Filler Intervall`` The intervall at which gap fillers will be inserted into the script (approximately, the generator takes the actual duration, start- and end- position into account).  
 
 ## General
 
