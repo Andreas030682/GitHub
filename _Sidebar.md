@@ -2,8 +2,10 @@
 * Getting started
   * [Installation](Installation)
   * [Settgins](Settings)
-  * [Troubleshooting](Troubleshooting)
   * [Controls](Controls)
+* Technical Stuff
+  * [Troubleshooting](Troubleshooting)
+  * [Scripts](Scripts)
   * [Devices](Devices)
 * External Players
   * [MPC-HC](MPC-HC)
@@ -14,4 +16,3 @@
 * Misc
   * [Report a Bug](Creating-Issues-to-report-bugs-or-request-features)
   * [Request a Feature](Creating-Issues-to-report-bugs-or-request-features)
-  * [Scripts](Scripts)
