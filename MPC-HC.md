@@ -1,0 +1,1 @@
+MPC-HC can be used as an external video player, by enabling the web interface (Options-Player-Web Interface) by checking the box labeled "Listen on port". The same port must be set in scriptplayer.
