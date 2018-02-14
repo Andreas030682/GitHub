@@ -1,0 +1,1 @@
+To use Zoom Player as an external video player, open the options dialog, switch into "Advanced Mode" via the button in the bottom left corner. In System, you need to find the option "Enable External TCP Control" and set the same port in ScriptPlayer.
