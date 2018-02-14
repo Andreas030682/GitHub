@@ -1,7 +1,7 @@
 * [Home](Home)
 * Getting started
   * [Installation](Installation)
-  * [Settgins](Settings)
+  * [Settings](Settings)
   * [Controls](Controls)
 * Technical Stuff
   * [Troubleshooting](Troubleshooting)
