@@ -12,5 +12,6 @@
   * [Whirligig](Whirligig)
   * [Zoom Player](Zoom-Player)
 * Misc
-  * [Bugs and Features](Creating-Issues-to-report-bugs-or-request-features)
+  * [Report a Bug](Creating-Issues-to-report-bugs-or-request-features)
+  * [Request a Feature](Creating-Issues-to-report-bugs-or-request-features)
   * [Scripts](Scripts)
