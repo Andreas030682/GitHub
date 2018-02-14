@@ -6,6 +6,7 @@
   * [Controls](Controls)
   * [Devices](Devices)
 * External Players
+  * [MPC-HC](MPC-HC)
   * [Samsung VR](Samsung-vr)
   * [VLC](VLC)
   * [Whirligig](Whirligig)
