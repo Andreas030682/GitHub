@@ -16,3 +16,4 @@
 * Misc
   * [Report a Bug](Creating-Issues-to-report-bugs-or-request-features)
   * [Request a Feature](Creating-Issues-to-report-bugs-or-request-features)
+  * [Beta Versions](Downloading Beta Builds)
