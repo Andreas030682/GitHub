@@ -12,6 +12,9 @@ If that still doesn't solve the issue, maybe [this support page from VRP](https:
 ## I can't connect to my toy
 Make sure you have at least the Windows version recommented in [[the installation manual|Installation#Prerequisites]], check if your bluetooth dongle supports BT 4.0 Low Energy (BLE) and is [[not listed|Devices#ble-dongle-chipsets]] under the chipsets known to cause issues.
 
+## My Launch is paired but isn't recognised
+The Launch mus not be paired for this to work - this sounds counterintuitive but you just need to turn it on (blue light will flash) and click on "Connect Launch Directly" (or the other way around, doesn't matter) and wait a few seconds (blue light on permanently)
+
 ## I can connect my toy but it doesn't move
 Make sure you have the latest version of ScriptPlayer, Buttplug (for devices other than the Fleshlight Launch) and your device's firmware (Launch can be updated with the FeelConnect app). Select "Source" - "Slow" in the settings menu to make sure it's not just a faulty script.
 
