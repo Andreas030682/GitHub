@@ -22,7 +22,7 @@ Make sure you have the latest version of ScriptPlayer, Buttplug (for devices oth
 Make sure the script loaded successfully by enabling "Show Heatmap" in the [[settings panel|Settings]]. If the progressbar at the bottom stays black, the script was not loaded correctly.
 
 ## It works for a while and suddenly stops
-Make sure your BLE dongle is not overheating and plugged into the correct type of port (e.g. if it's USB 2.0 don't use a 3.0 even though common sense says it should work).
+Make sure your BLE dongle is not overheating and plugged into the correct type of port (e.g. if it's USB 2.0 don't use a 3.0 even though common sense says it should work). Another problem might be your power saving options, see [this article](https://www.howtogeek.com/189856/ask-htg-how-can-i-keep-my-bluetooth-mouse-connected/) for details.
 
 ## Movement is too fast or erratic
 Try adjusting the settings for ``Speed``, ``Range`` and ``Min Command Delay`` in the [[settings panel|Settings]]. By default they are pushing the limit and result in faster movement that other applications. The defaults of other applications are approximately:   
